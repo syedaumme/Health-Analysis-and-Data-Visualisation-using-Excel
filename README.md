@@ -2,9 +2,9 @@
 
 
 
-![Dashboard Preview](![Screenshot 2024-06-09 210255](https://github.com/syedaumme/Health-Analysis-and-Data-Visualisation-using-Excel/assets/75966861/880249be-d822-4058-b5f9-8125c1833ba7)
->
-)
+(![Screenshot 2024-06-09 210255](https://github.com/syedaumme/Health-Analysis-and-Data-Visualisation-using-Excel/assets/75966861/880249be-d822-4058-b5f9-8125c1833ba7)
+
+
 
 ## Overview
 The Health Data Analysis Dashboard is an interactive Excel project designed to analyze and visualize health-related data. It provides insights into disease occurrences and associated symptoms, allowing users to explore and understand patterns within the dataset.
