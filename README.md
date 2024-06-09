@@ -2,7 +2,8 @@
 
 
 
-![Dashboard Preview](<img width="655" alt="image" src="https://github.com/syedaumme/Health-Analysis-and-Data-Visualisation-using-Excel/assets/75966861/7e374bdf-242c-4306-afa1-26b366a5b270">
+![Dashboard Preview](![Screenshot 2024-06-09 210255](https://github.com/syedaumme/Health-Analysis-and-Data-Visualisation-using-Excel/assets/75966861/880249be-d822-4058-b5f9-8125c1833ba7)
+>
 )
 
 ## Overview
