@@ -2,7 +2,7 @@
 
 
 
-(![Screenshot 2024-06-09 210255](https://github.com/syedaumme/Health-Analysis-and-Data-Visualisation-using-Excel/assets/75966861/880249be-d822-4058-b5f9-8125c1833ba7)
+![Screenshot 2024-06-09 210255](https://github.com/syedaumme/Health-Analysis-and-Data-Visualisation-using-Excel/assets/75966861/880249be-d822-4058-b5f9-8125c1833ba7)
 
 
 
@@ -29,5 +29,5 @@ To use the Health Data Analysis Dashboard:
 )
 
 ## Credits
-This project was created by [https://github.com/syedaumme].
+This project was created by ![https://github.com/syedaumme].
 
